@@ -12,6 +12,6 @@ console.log(lowestNumber)
 // 2. declare aux global var;
 // 3. set value very bigger int;
 // 4. every loop, compare the values, if value is smaller, update the aux to the item value;
-// 5. print the result
+// 5. print the result;
 
 
