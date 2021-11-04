@@ -10,13 +10,3 @@ let tasks = [
 ];
 
 //your code here
-
-let isTaskDone = function(task){
-	return (task.done)
-}
-let isTaskNotDone = function(task){
-	return (!task.done)
-}
-let removeDone = tasks.filter(isTaskNotDone);
-
-console.log(removeDone)
